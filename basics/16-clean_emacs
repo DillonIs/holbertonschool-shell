@@ -1,2 +1,3 @@
 #!/bin/bash
-rm /tmp/test_emacs*~
+rm select 
+*~
